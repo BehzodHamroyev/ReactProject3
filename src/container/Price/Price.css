@@ -1,0 +1,18 @@
+.Price{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:  #181818;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 40px;
+    color: white;
+   
+}
+.New{
+    background-color: #F64775;
+    border-radius: 2px;
+    width: 40px;
+    padding: 2px 4px;
+}
